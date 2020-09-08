@@ -1,2 +1,2 @@
 # TimeSeriesForecasting
-A simple stationarity check in dataset is performed. A real time csv dataset is used to perform the analysis.
+A simple stationarity check  and seasonality in dataset is analyzed. A real time csv dataset is used to perform the analysis.
